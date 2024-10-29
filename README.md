@@ -13,7 +13,7 @@ When using the toolkit in your work, please cite Ahlfeldt, Albers, Behrens (2024
 
 Name | Description |
 |:---------------------------------------------|:-------------------------------------------------------------------------|
-| [AGLORITHM](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/ALGORITHM) | Folder containing data a set on which ABRSQOL can be tested.   |
+| [AGLORITHM](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/ALGORITHM) | Python version of the delineation algorithm that can be applied to spatial point pattern data with a user-friendly syntax.   |
 | [DATA/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/GlobalCities) | Folder containing data sets that provide key statistics of prime locations (merges to a shape file in [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities)) as well as a summary of the geography of prime locations by Global City. |
 | [DATA/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/USMSAs) | Folder containing data sets that provide key statistics of prime locations (merges to a shape file in [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs)) as well as a summary of the geography of prime locations by USMSA.|
 | [MAPS/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | Folder containing maps of prime locations by Global City. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities). |
