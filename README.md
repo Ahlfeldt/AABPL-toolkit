@@ -14,8 +14,10 @@ When using the toolkit in your work, please cite Ahlfeldt, Albers, Behrens (2024
 Name | Description |
 |:---------------------------------------------|:-------------------------------------------------------------------------|
 | [AGLORITHM](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/ALGORITHM) | Folder containing data a set on which ABRSQOL can be tested.   |
-| [DATA](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA) | Folder containing a MATLAB function along with instructions. It does not contain the variables used in the paper.  |
-| [MAPS](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/MAPS) | Link to repository containing a Python package along with instructions. |
+| [DATA/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/GlobalCities) | Folder containing maps of prime locations by Global City. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities) |
+| [DATA/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/USMSAs) | Folder containing maps of prime locations by US MSA. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities) |
+| [MAPS/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/MAPS/GlobalCities) | Folder containing maps of prime locations by Global City. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities). |
+| [MAPS/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/MAPS/USMSAs) | Folder containing maps of prime locations by Global City. These maps can also be conveniently viewed within an interactive drop-down menu [here]([https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-381-us-msas). |
 | [SHAPEFILES](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES) | Folder containing an R package along with instructions.  |
 
 ## Reference: 
