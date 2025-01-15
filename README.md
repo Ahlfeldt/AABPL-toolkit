@@ -32,7 +32,7 @@ The **Python package** for the delination of spatial clusters akin to prime loca
 All data outputs are available from the folders below. Since these folders contain many files, the most convenient way of accessing the content is to access the directory via [GitHub Desktop](https://github.com/apps/desktop)
 
 Folder | File | Description |
-|:---------------------------------------------|:-------------------------------------------------------------------------|
+|:---------------------------------------------|:---------------------------------------------|:-------------------------------------------------------------------------|
 | [DATA/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/GlobalCities) | | Folder containing data sets that provide key statistics of prime locations (merges to a shape file in [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities)) as well as a summary of the geography of prime locations by Global City. |
 | [DATA/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/USMSAs) | |Folder containing data sets that provide key statistics of prime locations (merges to a shape file in [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs)) as well as a summary of the geography of prime locations by USMSA.|
 | [MAPS/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | |Folder containing maps of prime locations by Global City. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities). |
