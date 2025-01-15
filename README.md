@@ -49,4 +49,4 @@ Folder | Name  | Description |
 
 ## Reference: 
 
-Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens (2024): Prime locations.
+Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens (2024): Prime locations. American Economic Review: Insights, forthcoming.
