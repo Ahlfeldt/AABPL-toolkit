@@ -21,7 +21,7 @@ When using the toolkit in your work, please cite Ahlfeldt, Albers, Behrens (2024
 
 ## Interactive toolkit
 
-As a part of this toolkit, we provide an [**interactive web tool**](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations) that conveniently presents our delineated prime locations against the background of the spatial distribution of economic activity for 381 US MSAs and 125 Global Cities.
+As a part of this toolkit, we provide an [interactive web tool](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations) that conveniently presents our delineated prime locations against the background of the spatial distribution of economic activity for 381 US MSAs and 125 Global Cities.
 
 ## Aglorithm
 
