@@ -2,7 +2,7 @@
 
 # Toolkit for Prime Locations (AABPL)
 (c) Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens
-Version 1.0.0, 2024-10
+Version 1.0.0, 2025-01
 
 ## General description
 
