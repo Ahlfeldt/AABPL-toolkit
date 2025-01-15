@@ -1,0 +1,132 @@
+metro_id,PL_count,PL_TS_emp_pct,PL_area_pct,metro_name,Type
+61,2,22.028217,.56770283,"London, United Kingdom",Duocentric-Dispearsed
+62,7,18.794548,.32310468,"Los Angeles, CA",Polycentric-Dispearsed
+79,2,32.805805,.48173451,"New York, NY",Duocentric-Agglomerated
+85,1,29.6989,.60360038,"Paris, France",Monocentric-Agglomerated
+50,3,14.321256,.37062389,"Istanbul, Turkey",Polycentric-Dispearsed
+117,1,43.790314,.57832098,"Tokyo, Japan",Monocentric-Agglomerated
+112,2,28.925917,.44429564,"São Paulo, Brazil",Duocentric-Dispearsed
+92,4,27.800861,.32298368,"Quezon City, Philippines",Polycentric-Dispearsed
+52,3,16.283997,.25770786,"Johannesburg, South Africa",Polycentric-Dispearsed
+69,5,16.058361,.28695592,"Miami, FL",Polycentric-Dispearsed
+101,5,19.407043,.32735536,"San Diego, CA",Polycentric-Dispearsed
+102,2,35.818569,.4374212,"San Francisco, CA",Duocentric-Agglomerated
+13,2,21.024448,.39893961,"Boston, MA",Duocentric-Dispearsed
+67,1,37.796463,.3294321,"Melbourne, Australia",Monocentric-Agglomerated
+111,2,30.819607,.36419547,"Sydney, Australia",Duocentric-Agglomerated
+80,4,12.208249,.1877386,"Newark, NJ",Polycentric-Dispearsed
+87,8,10.228963,.24798553,"Phoenix, AZ",Polycentric-Dispearsed
+31,4,34.39122,.35291037,"Dubai, United Arab Emirates",Polycentric-Agglomerated
+74,2,12.587741,.52715451,"Moscow, Russia",Duocentric-Dispearsed
+89,3,19.754211,.32919794,"Portland, OR",Polycentric-Dispearsed
+103,5,22.152195,.36502209,"San Jose, CA",Polycentric-Dispearsed
+66,1,27.332846,.38948423,"Manchester, Great Britain",Monocentric-Dispearsed
+98,5,20.421692,.25774232,"Sacramento, CA",Polycentric-Dispearsed
+38,6,13.359119,.32082105,"Ft. Lauderdale, FL",Polycentric-Dispearsed
+105,1,17.242483,.21862316,"Seattle, WA",Monocentric-Dispearsed
+95,10,16.087479,.29959512,"Riverside, CA",Polycentric-Dispearsed
+107,2,40.727268,.20742829,"Shanghai, China",Duocentric-Agglomerated
+124,4,28.189901,.21284214,"Washington, DC",Polycentric-Dispearsed
+14,1,41.214504,.32493153,"Brisbane, Australia",Monocentric-Agglomerated
+47,2,43.868568,.36506647,"Hong Kong, China",Duocentric-Agglomerated
+86,3,19.063742,.13574812,"Philadelphia, PA",Polycentric-Dispearsed
+94,1,60.348679,.50069249,"Rio de Janeiro, Brazil",Monocentric-Agglomerated
+12,1,22.593491,.2777558,"Birmingham, United Kingdom",Monocentric-Dispearsed
+97,2,15.082004,.31630188,"Rotterdam, Netherlands",Duocentric-Dispearsed
+96,1,15.457012,.28704369,"Riyadh, Saudi Arabia",Monocentric-Dispearsed
+1,3,11.40527,.27728581,"Amsterdam, Netherlands",Polycentric-Dispearsed
+2,1,34.641998,.29050815,"Ankara, Turkey",Monocentric-Agglomerated
+32,1,23.296732,.37623599,"Dublin, Ireland",Monocentric-Dispearsed
+20,1,26.018488,.36802039,"Cape Town, South Africa",Monocentric-Dispearsed
+120,3,24.944103,.28536916,"Vancouver, Canada",Polycentric-Dispearsed
+10,3,49.324921,.13258919,"Beijing, China",Polycentric-Agglomerated
+83,1,67.678032,.40901983,"Osaka, Japan",Monocentric-Agglomerated
+68,3,42.348034,.148462,"Mexico City, Mexico",Polycentric-Agglomerated
+108,1,56.452328,.32625455,"Singapore, Singapore",Monocentric-Agglomerated
+55,5,29.206852,.22501895,"Kuala Lumpur, Malaysia",Polycentric-Dispearsed
+118,2,40.39072,.18145496,"Toronto, Canada",Duocentric-Agglomerated
+4,2,33.597073,.42719236,"Athens, Greece",Duocentric-Agglomerated
+7,1,41.112934,.3723079,"Bangkok, Thailand",Monocentric-Agglomerated
+29,4,20.632065,.1423018,"Denver, CO",Polycentric-Dispearsed
+51,1,42.220184,.24043389,"Jakarta, Indonesia",Monocentric-Agglomerated
+64,1,44.435066,.32117796,"Madrid, Spain",Monocentric-Agglomerated
+34,2,27.974573,.37886977,"Durban, South Africa",Duocentric-Dispearsed
+75,1,31.292694,.34983853,"Munich, Germany",Monocentric-Agglomerated
+23,1,76.367294,.27130896,"Chicago, IL",Monocentric-Agglomerated
+90,2,23.022228,.30519283,"Providence, RI",Duocentric-Dispearsed
+15,1,24.907797,.46856916,"Brussels, Belgium",Monocentric-Dispearsed
+8,1,41.074619,.69486117,"Barcelona, Spain",Monocentric-Agglomerated
+17,1,62.556213,.27656227,"Buenos Aires, Argentina",Monocentric-Agglomerated
+28,3,37.018074,.13228828,"Dallas, TX",Polycentric-Agglomerated
+93,3,17.366196,.23069096,"Reading, Great Britain",Polycentric-Dispearsed
+11,2,16.820866,.13740197,"Berlin, Germany",Duocentric-Dispearsed
+48,2,35.461529,.042078864,"Houston, TX",Duocentric-Agglomerated
+106,3,65.051147,.2532149,"Seoul, South Korea",Polycentric-Agglomerated
+56,1,54.263409,.35810724,"Kuwait City, Kuwait",Monocentric-Agglomerated
+5,4,36.039509,.11885436,"Atlanta, GA",Polycentric-Agglomerated
+109,1,41.259212,.42556211,"Stockholm, Sweden",Monocentric-Agglomerated
+73,1,46.758389,.23473825,"Montreal, Canada",Monocentric-Agglomerated
+63,1,17.028702,.34638891,"Lyon, France",Monocentric-Dispearsed
+119,2,8.0909176,.3603498,"Utrecht, Netherlands",Duocentric-Dispearsed
+57,7,18.00683,.16944417,"Las Vegas, NV",Polycentric-Dispearsed
+128,1,51.949387,.26877981,"Zurich, Switzerland",Monocentric-Agglomerated
+115,6,27.075586,.15663168,"Tampa, FL",Polycentric-Dispearsed
+37,1,49.968906,.35897371,"Frankfurt, Germany",Monocentric-Agglomerated
+43,1,49.071915,.30289239,"Hamburg, Germany",Monocentric-Agglomerated
+122,1,44.521164,.31655028,"Vienna, Austria",Monocentric-Agglomerated
+19,1,47.391983,.15312526,"Calgary, Canada",Monocentric-Agglomerated
+6,4,23.96944,.13942094,"Austin, TX",Polycentric-Dispearsed
+71,1,37.048836,.07168813,"Minneapolis, MN",Monocentric-Agglomerated
+16,1,16.19684,.38161582,"Budapest, Hungary",Monocentric-Dispearsed
+100,4,15.159366,.087257959,"San Antonio, TX",Polycentric-Dispearsed
+104,2,57.827492,.24079652,"Santiago, Chile",Duocentric-Agglomerated
+59,1,36.650761,.18670247,"Lima, Peru",Monocentric-Agglomerated
+53,4,29.93751,.21003017,"Kansas City, MO",Polycentric-Agglomerated
+99,4,30.937819,.12709177,"Saint Louis, MO",Polycentric-Agglomerated
+42,2,20.687147,.068129249,"Guangzhou, China",Duocentric-Dispearsed
+121,1,32.46632,.36257029,"Victoria, Canada",Monocentric-Agglomerated
+114,2,38.973774,.18427649,"Taipei City, Taiwan",Duocentric-Agglomerated
+82,1,22.004015,.079409078,"Orlando, FL",Monocentric-Dispearsed
+72,3,22.29738,.2203349,"Monterrey, Mexico",Polycentric-Dispearsed
+35,2,22.747063,.101953,"Edmonton, Canada",Duocentric-Dispearsed
+27,2,22.030323,.098449618,"Columbus, OH",Duocentric-Dispearsed
+88,2,39.957737,.082800232,"Pittsburgh, PA",Duocentric-Agglomerated
+76,1,60.143715,.24986102,"Nagoya, Japan",Monocentric-Agglomerated
+84,1,30.134354,.081352957,"Ottawa, Canada",Monocentric-Agglomerated
+25,2,27.753454,.060823433,"Cincinnati, OH",Duocentric-Dispearsed
+21,2,39.70182,.12212604,"Charlotte, NC",Duocentric-Agglomerated
+46,1,34.906841,.2678484,"Helsinki, Finland",Monocentric-Agglomerated
+49,4,31.964085,.16316432,"Indianapolis, IN",Polycentric-Agglomerated
+41,3,24.961563,.3262448,"Guadalajara, Mexico",Polycentric-Dispearsed
+3,1,6.7272267,.25857276,"Antwerp, Belgium",Monocentric-Dispearsed
+70,1,29.152588,.077757202,"Milwaukee, WI",Monocentric-Dispearsed
+125,1,30.654207,.19035052,"Winnipeg, Canada",Monocentric-Agglomerated
+30,4,22.067213,.10509669,"Detroit, MI",Polycentric-Dispearsed
+77,2,20.559341,.21428487,"Nanjing, China",Duocentric-Dispearsed
+78,5,27.585623,.1442579,"Nashville, TN",Polycentric-Dispearsed
+44,1,16.846163,.14183576,"Hangzhou, China",Monocentric-Dispearsed
+26,1,33.630554,.083889693,"Cleveland, OH",Monocentric-Agglomerated
+24,3,42.091091,.19947095,"Chongqing, China",Polycentric-Agglomerated
+123,4,21.437515,.13510633,"Virginia Beach, VA",Polycentric-Dispearsed
+126,3,19.358536,.11061287,"Wuhan, China",Polycentric-Dispearsed
+36,1,27.460552,.033134855,"Fort Worth, TX",Monocentric-Dispearsed
+110,2,36.26733,.23200703,"Suzhou, China",Duocentric-Agglomerated
+22,2,18.34424,.20548731,"Chengdu, China",Duocentric-Dispearsed
+91,1,15.618092,.11494938,"Quebec, Canada",Monocentric-Dispearsed
+33,1,40.189552,.21060051,"Duesseldorf, Germany",Monocentric-Agglomerated
+116,1,20.500956,.13733076,"Tianjin, China",Monocentric-Dispearsed
+58,2,31.193245,.14651254,"Lexington, KY",Duocentric-Agglomerated
+81,1,19.300041,.33224568,"Ningbo, China",Monocentric-Dispearsed
+127,2,49.263489,.29986849,"Wuxi, China",Duocentric-Agglomerated
+40,1,41.398685,.17128675,"Gothenburg, Sweden",Monocentric-Agglomerated
+65,1,56.086712,.31084922,"Malmö, Sweden",Monocentric-Agglomerated
+9,1,30.502636,.42612147,"Basel, Switzerland",Monocentric-Agglomerated
+45,1,59.054386,.22590025,"Helsingborg, Sweden",Monocentric-Agglomerated
+129,1,30.192869,.18877691,"Örebro, Sweden",Monocentric-Agglomerated
+60,1,66.04055,.19047144,"Linköping, Sweden",Monocentric-Agglomerated
+18,,,,"Busan, South Korea",Polycentric-Agglomerated
+39,,,,"Fukuoka, Japan",Polycentric-Agglomerated
+113,,,,"Taichung City, Taiwan",Polycentric-Agglomerated
+54,,,,"Kaohsiung City, Taiwan",Polycentric-Agglomerated
+,,27.887499,.19823486,"Mean, North America",
+,,34.598545,.31073108,"Mean, rest of world",
