@@ -2,7 +2,7 @@
 
 # Toolkit for Prime Locations (AABPL)
 (c) Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens
-Version 1.0.0, 2024-10
+Version 1.0.0, 2025-01
 
 ## General description
 
@@ -15,7 +15,7 @@ This toolkit consists of the following main ingredients:
 - An interactive toolkit that allows for a convenient visual impression of delineated prime locations and data download by city
 - A Python version of our delineation algorithm which is flexibly applicable to spatial point pattern data
 
-This toolkit is a complement and not a substitute for the replication directory. For reproduction of the results reported in the article, we refer to the official replication directory which is currently under construction.
+This toolkit is a complement and not a substitute for the replication directory. For reproduction of the results reported in the article, we refer to the official **replication directory** which is currently under construction.
 
 When using the toolkit in your work, please cite Ahlfeldt, Albers, Behrens (2024): Prime locations, American Economic Review: Insights, forthcoming.
 
@@ -29,16 +29,20 @@ The **Python package** for the delination of spatial clusters akin to prime loca
 
 ## Data
 
-All data outputs are available from the folders below. Since these folders contain many files, the most convenient way of accessing the content is to access the directory via [GitHub Desktop](https://github.com/apps/desktop)
+All data outputs are available from the folders below. Outputs for individual cities can be conveniently downloaded using our [interactive web tool](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations). To download the content as a while, the most convenient way is to access the directory via [GitHub Desktop](https://github.com/apps/desktop)
 
 Folder | File | Description |
 |:---------------------------------------------|:---------------------------------------------|:-------------------------------------------------------------------------|
-| [DATA/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/GlobalCities) | | Folder containing data sets that provide key statistics of prime locations (merges to a shape file in [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities)) as well as a summary of the geography of prime locations by Global City. |
+| [DATA/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/GlobalCities) |  | Folder containing data sets that provide key statistics of prime locations (merges to a shape file in [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities)) as well as a summary of the geography of prime locations by Global City. |
 | [DATA/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/USMSAs) | |Folder containing data sets that provide key statistics of prime locations (merges to a shape file in [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs)) as well as a summary of the geography of prime locations by USMSA.|
-| [MAPS/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | |Folder containing maps of prime locations by Global City. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities). |
-| [MAPS/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/MAPS/USMSAs) | |Folder containing maps of prime locations by Global City. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-381-us-msas). |
-| [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | |Folder containing the following ZIP archives: separate shapefiles for prime prime locations for each Global City (shape_XXX.zip); one shapefile containing all prime locations in all Global Cities (, and one shapefile for micro-ge.  |
-| [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | | Folder containing separate shapefiles for prime prime locations for each MSA and one shapefile containing all prime locations in all MSAs.  |
+| [MAPS/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | GISMAP_PL_metroXXX.png | PNG map illustrating prime locations for a Global City, where XXX is the Global Cities identifier. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities). |
+| [MAPS/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/MAPS/USMSAs) | MAPS_PL_TotalEmp_BaseP_XXXXX.png|PNG map illustrating prime locations for a US MSA, where XXXXX is the CBSA identifier. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-381-us-msas). |
+| [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | shape_all.zip | ZIP archives containing one shapefile of all prime locations in all Global Cities |
+| [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | shape_XXX.zip | ZIP archives containing one shapefile of prime prime locations in the Global City with identifier XXX. |
+| [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | grid_XXX.zip | ZIP archives containing one shapefile of a micro-geographic grid for the Global City with identifier XXX, with data on predicted employment and other markers of economic activity |
+| [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | shape_all.zip | ZIP archives containing one shapefile of all prime locations in all US MSAs|
+| [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | shape_XXXXX.zip | ZIP archives containing one shapefile of prime prime locations in the US MSA with CBSA identifier XXXXX. |
+| [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | grid_XXXXX.zip| ZIP archives containing one shapefile of a micro-geographic grid for the US MSA with CBSA identifier XXXXX, with data on employment by sector |
 
 ### Selected Files
 
