@@ -25,7 +25,7 @@ As a part of this toolkit, we provide an [**interactive web tool**](https://site
 
 ## Aglorithm
 
-The Python package for the delination of spatial clusters akin to prime locations is available form this sister [GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python). It uses arbitrary spatial point patterns as input and returns a gridded version of the data along with polygons of the delineated spatial clusters as outputs. 
+The **Python package** for the delination of spatial clusters akin to prime locations is available form this sister [GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python). It uses arbitrary spatial point patterns as input and returns a gridded version of the data along with polygons of the delineated spatial clusters as outputs. 
 
 ## Data
 
