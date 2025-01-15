@@ -46,13 +46,6 @@ Folder | File | Description |
 | [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | shape_XXXXX.zip | ZIP archives containing one shapefile of prime prime locations in the US MSA with CBSA identifier XXXXX. |
 | [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | grid_XXXXX.zip| ZIP archives containing one shapefile of a micro-geographic grid for the US MSA with CBSA identifier XXXXX, with data on employment by sector |
 
-### Selected Files
-
-Folder | Name  | Description |
-|:-------------------|:-------------------------------------|:-------------------------------------------------------------------------|
-| [-](https://github.com/Ahlfeldt/ABRSQOL-toolkit) | `AABPL-Codebook.pdf` | **Codebook** laying out the **structure of the deliniation algorithm in pseduo code** |
-
-
 ## Reference: 
 
 Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens (2024): Prime locations. American Economic Review: Insights, forthcoming.
