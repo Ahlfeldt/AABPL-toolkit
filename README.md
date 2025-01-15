@@ -8,7 +8,11 @@ Version 1.0.0, 2024-10
 
 This toolkit complements Ahlfeldt, Albers, Behrens (2024), who develop a delineation algorithm for ultra-dense employment clusters within cities which is applied to US MSAs and a sample of Global Cities. 
 
-This toolkit contains shapefiles of delineated prime locations for all US MSAs and the sampled Global cities, data sets that provide key statistics on these prime locations and summarize the geography of prime locations by city, as well as a Python version of the delineation algorithm which is flexibly applicable to spatial point pattern data.
+This toolkit if the following main ingredients:
+- shapefiles of delineated prime locations for 381 US MSAs (all except Puerto Rico) and 125 Global cities
+- data sets that provide key statistics on these prime locations and summarize the geography of prime locations by city
+- Micro-geographic grids that include employment by sector (US MSAs) as well as predicted employment and other measures of economic activity (Global Cities
+- A Python version of our delineation algorithm which is flexibly applicable to spatial point pattern data
 
 This toolkit is a complement and not a substitute for the replication directory. For reproduction of the results reported in the article, we refer to the official replication directory which is currently under construction.
 
