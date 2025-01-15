@@ -11,7 +11,7 @@ This toolkit complements Ahlfeldt, Albers, Behrens (2024), who develop a delinea
 This toolkit consists of the following main ingredients:
 - shapefiles of delineated prime locations for 381 US MSAs (all except Puerto Rico) and 125 Global cities
 - data sets that provide key statistics on these prime locations and summarize the geography of prime locations by city
-- Micro-geographic grids that include employment by sector (US MSAs) as well as predicted employment and other measures of economic activity (Global Cities
+- shapefiles for micro-geographic grids that include employment by sector (US MSAs) as well as predicted employment and other measures of economic activity (Global Cities)
 - An interactive toolkit that allows for a convenient visual impression of delineated prime locations and data download by city
 - A Python version of our delineation algorithm which is flexibly applicable to spatial point pattern data
 
