@@ -29,7 +29,7 @@ The Python package for the delination of spatial clusters akin to prime location
 
 ## Data
 
-All data outputs are available from the folders below. Since these folders contain many files, the most convenient way of accessing the content is to clone the directory in [GitHub Desktop](https://github.com/apps/desktop)
+All data outputs are available from the folders below. Since these folders contain many files, the most convenient way of accessing the content is to access the directory via [GitHub Desktop](https://github.com/apps/desktop)
 
 Name | Description |
 |:---------------------------------------------|:-------------------------------------------------------------------------|
