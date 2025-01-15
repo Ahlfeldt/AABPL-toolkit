@@ -1,5 +1,3 @@
-# !!! This toolkit is under construction !!!
-
 # Toolkit for Prime Locations (AABPL)
 (c) Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens
 Version 1.0.0, 2025-01
@@ -25,7 +23,7 @@ As a part of this toolkit, we provide an [interactive web tool](https://sites.go
 
 ## Aglorithm
 
-The **Python package** for the delination of spatial clusters akin to prime locations is available form this sister [GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python). It uses arbitrary spatial point patterns as input and returns a gridded version of the data along with polygons of the delineated spatial clusters as outputs. 
+The **Python package** for the delination of spatial clusters akin to prime locations is published in this [GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python). It uses arbitrary spatial point patterns as input and returns a gridded version of the data along with polygons of the delineated spatial clusters as outputs. 
 
 ## Data
 
@@ -49,3 +47,6 @@ Folder | File | Description |
 ## Reference: 
 
 Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens (2024): Prime locations. American Economic Review: Insights, forthcoming.
+
+## Acknowledgements
+We thank [Max von Mylius](https://github.com/maximylius) for developing the Python version of our algorithm in this [GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python)
