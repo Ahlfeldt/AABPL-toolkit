@@ -8,7 +8,7 @@ Version 1.0.0, 2025-01
 
 This toolkit complements Ahlfeldt, Albers, Behrens (2024), who develop a delineation algorithm for ultra-dense employment clusters within cities which is applied to US MSAs and a sample of Global Cities. 
 
-This toolkit consists of the following main ingredients:
+This toolkit consists of the following main components:
 - shapefiles of delineated prime locations for 381 US MSAs (all except Puerto Rico) and 125 Global cities
 - data sets that provide key statistics on these prime locations and summarize the geography of prime locations by city
 - shapefiles for micro-geographic grids that include employment by sector (US MSAs) as well as predicted employment and other measures of economic activity (Global Cities)
