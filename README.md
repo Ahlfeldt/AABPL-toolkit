@@ -41,8 +41,8 @@ Folder | File | Description |
 | [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | shape_XXX.zip | ZIP archives containing one shapefile of prime prime locations in the Global City with identifier XXX. |
 | [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | grid_XXX.zip | ZIP archives containing one shapefile of a micro-geographic grid for the Global City with identifier XXX, with data on predicted employment and other markers of economic activity |
 | [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | shape_all.zip | ZIP archives containing one shapefile of all prime locations in all US MSAs|
-| [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | shape_XXX.zip | ZIP archives containing one shapefile of prime prime locations in the US MSA with CBSA identifier XXXXX. |
-| [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | grid_XXX.zip| ZIP archives containing one shapefile of a micro-geographic grid for the US MSA with CBSA identifier XXXXX, with data on employment by sector |
+| [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | shape_XXXXX.zip | ZIP archives containing one shapefile of prime prime locations in the US MSA with CBSA identifier XXXXX. |
+| [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs) | grid_XXXXX.zip| ZIP archives containing one shapefile of a micro-geographic grid for the US MSA with CBSA identifier XXXXX, with data on employment by sector |
 
 ### Selected Files
 
