@@ -15,7 +15,7 @@ This toolkit consists of the following main ingredients:
 - An interactive toolkit that allows for a convenient visual impression of delineated prime locations and data download by city
 - A Python version of our delineation algorithm which is flexibly applicable to spatial point pattern data
 
-This toolkit is a complement and not a substitute for the replication directory. For reproduction of the results reported in the article, we refer to the official replication directory which is currently under construction.
+This toolkit is a complement and not a substitute for the replication directory. For reproduction of the results reported in the article, we refer to the official **replication directory** which is currently under construction.
 
 When using the toolkit in your work, please cite Ahlfeldt, Albers, Behrens (2024): Prime locations, American Economic Review: Insights, forthcoming.
 
