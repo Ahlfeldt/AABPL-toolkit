@@ -14,6 +14,8 @@ This toolkit if the following main ingredients:
 - Micro-geographic grids that include employment by sector (US MSAs) as well as predicted employment and other measures of economic activity (Global Cities
 - A Python version of our delineation algorithm which is flexibly applicable to spatial point pattern data
 
+As a part of this toolkit, we provide an *interactive web tool* that conveniently presents our delineated prime locations against the background of the spatial distribution of economic activity for 381 US MSAs and 125 Global Cities.
+
 This toolkit is a complement and not a substitute for the replication directory. For reproduction of the results reported in the article, we refer to the official replication directory which is currently under construction.
 
 When using the toolkit in your work, please cite Ahlfeldt, Albers, Behrens (2024): Prime locations, American Economic Review: Insights, forthcoming.
