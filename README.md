@@ -23,7 +23,7 @@ As a part of this toolkit, we provide an [interactive web tool](https://sites.go
 
 ## Algorithm
 
-The **Python package** for the delineation of spatial clusters akin to prime locations is published in this [GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python). It uses arbitrary spatial point patterns as input and returns a gridded version of the data along with polygons of the delineated spatial clusters as outputs. 
+The **Python package** for the delineation of spatial clusters akin to prime locations is published in this **[GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python)**. It uses arbitrary spatial point patterns as input and returns a gridded version of the data along with polygons of the delineated spatial clusters as outputs. 
 
 ## Data
 
