@@ -15,7 +15,7 @@ This toolkit consists of the following main components:
 
 This toolkit is a complement and not a substitute for the replication directory. For reproduction of the results reported in the article, we refer to the official **replication directory** which is currently under construction.
 
-When using the toolkit in your work, **please cite** Ahlfeldt, Albers, Behrens (2024): Prime locations, American Economic Review: Insights, forthcoming.
+When using the toolkit in your work, **please cite Ahlfeldt, Albers, Behrens (2024): Prime locations, American Economic Review: Insights, forthcoming.**
 
 ## Interactive toolkit
 
