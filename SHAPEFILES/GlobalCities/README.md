@@ -25,5 +25,3 @@ For a more detailed description of the data sources, see Ahlfeldt, Albers, Behre
 
 Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens (2024): Prime locations. American Economic Review: Insights, forthcoming.
 
-## Acknowledgements
-We thank [Max von Mylius](https://github.com/maximylius) for developing the Python version of our algorithm in this [GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python)
