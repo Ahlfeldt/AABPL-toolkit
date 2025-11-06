@@ -15,7 +15,7 @@ This toolkit consists of the following main components:
 
 This toolkit is a complement and not a substitute for the replication directory. For reproduction of the results reported in the article, we refer to the official **replication directory** which is currently under construction.
 
-When using the toolkit in your work, **please cite** Ahlfeldt, Albers, Behrens (2024): Prime locations, American Economic Review: Insights, forthcoming.
+When using the toolkit in your work, **please cite Ahlfeldt, Albers, Behrens (2024): Prime locations, American Economic Review: Insights, forthcoming.**
 
 ## Interactive toolkit
 
@@ -23,7 +23,7 @@ As a part of this toolkit, we provide an [interactive web tool](https://sites.go
 
 ## Algorithm
 
-The **Python package** for the delineation of spatial clusters akin to prime locations is published in this [GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python). It uses arbitrary spatial point patterns as input and returns a gridded version of the data along with polygons of the delineated spatial clusters as outputs. 
+The **Python package** for the delineation of spatial clusters akin to prime locations is published in this **[GitHub repository](https://github.com/Ahlfeldt/AABPL-toolkit-python)**. It uses arbitrary spatial point patterns as input and returns a gridded version of the data along with polygons of the delineated spatial clusters as outputs. 
 
 ## Data
 
@@ -33,6 +33,7 @@ Folder | File | Description |
 |:---------------------------------------------|:---------------------------------------------|:-------------------------------------------------------------------------|
 | [DATA/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/GlobalCities) |  metro-data.csv | CSV file containing a summary of the geography of prime locations by Global City (Global City identifier; number of prime locations; percentage share of city employment in prime locations; percentage share of city area in prime locations; city name; type of city structure). |
 | [DATA/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/GlobalCities) |  PL-data.csv | CSV file key statistics of prime locations (prime location identifier; city name; Global City identifier;	employment rank of prime location within city; prime location area; share of prime location at city employment; share of prime location at city area). Merges to the shapefile in the shape_all.zip archive in folder [SHAPEFILES/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) |
+| [DATA/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/GlobalCities) |  prime_points_weighted.zip | Zip archive containing CSV files with big data establishments (including predicted employment) for all Global Cities|
 | [DATA/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/USMSAs) | metro-data.csv | CSV file containing a summary of the geography of prime locations by Global City (CBSA identifier; city name; number of prime locations;	percentage share of city area in prime locations; percentage share of city employment in prime locations; percentage share of manufacturing employment in prime locations;	percentage share of non-tradable services employment in prime locations;	percentage share of public services employment in prime locations;	percentage share of tradable services employment in prime locations;	percentage share of other employment in prime locations; MSA area; MSA employment;	type of city structure) |
 | [DATA/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/DATA/USMSAs) |  PL-data.csv  |CSV file key statistics of prime locations (prime locations identifier;	CBSA identifier; city name; prime location rank in US; prime location rank within city; latitude; longitude; area; employment; employment density; percentage share of manufacturing employment in prime location; same for non-tradable services; same for public services; same for tradable services; same for other employment; MSA employment; indicator for satisfying minimum size; indicator for being largest prime location in city; share of manufacturing employment at total at total employment outside prime locations; same for non-tradable services; same for public services; same for tradable services; same for other employment; same for employment in establishments that correspond to our big data search terms). Merges to the shapefile in the shape_all.zip archive in folder [SHAPEFILES/USMSAs](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/USMSAs).|
 | [MAPS/GlobalCities](https://github.com/Ahlfeldt/AABPL-toolkit/tree/main/SHAPEFILES/GlobalCities) | GISMAP_PL_metroXXX.png | PNG map illustrating prime locations for a Global City, where XXX is the Global Cities identifier. These maps can also be conveniently viewed within an interactive drop-down menu [here](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools/prime-locations/prime-locations-in-129-global-cities). |
