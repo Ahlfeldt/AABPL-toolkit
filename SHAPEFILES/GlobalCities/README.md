@@ -19,7 +19,7 @@ Below are the main variables in the attribute table:
 | **pop_sh** | Float | Cells's share of metropolitan population (within grid) located in this cell |
 | **emp_sh** | Float | Share of metropolitan employment  (within grid) located in this cell (same as psemph, just a fraction; added to facilitate input into GRID-toolkit) |
 
-For a more detailed description of the data sources, see Ahlfeldt, Albers, Behrens (2025)
+All data are from 2015. For a more detailed description of the data sources, see Ahlfeldt, Albers, Behrens (2025)
 
 ## Reference: 
 
