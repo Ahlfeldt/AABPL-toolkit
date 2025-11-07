@@ -16,7 +16,7 @@ Below are the main variables in the attribute table:
 | **pop** | Float | Total population of the cell (Gridded Population of the World) |
 | **pop_sh** | Float | Cells's share of metropolitan population (within grid) located in this cell |
 
-For a more detailed description of the data sources, see Ahlfeldt, Albers, Behrens (2025)
+All data are from 2015. For a more detailed description of the data sources, see Ahlfeldt, Albers, Behrens (2025)
 
 ## Reference: 
 
