@@ -1,4 +1,4 @@
-# Toolkit for Prime Locations (AABPL)
+# Toolkit for Prime Locations (AABPL-toolkit)
 (c) Gabriel M. Ahlfeldt, Thilo N. H. Albers, Kristian Behrens
 Version 1.0.0, 2025-01
 
